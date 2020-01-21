@@ -208,7 +208,7 @@
     "navigator_action_addfolder_prompt": "Nombre de carpeta",
     "navigator_action_addfolder_toolong": "¡El nombre debe tener entre 1 y 35 caracteres!",
     "navigator_action_reload": "Comenzó el escaneo de todos los feeds en busca de nuevos artículos. Esto puede llevar mucho tiempo. Normalmente no es necesario hacer esto en absoluto. Por favor, espere...",
-    "navigator_ctxmenu_markread": "Marcar todos los artículos como leídos",
+    "navigator_ctxmenu_markread": "Marcar como leídos",
     "navigator_ctxmenu_rename": "Renombrar",
     "navigator_ctxmenu_sortfeeds": "Ordenar feeds en la carpeta",
     "navigator_ctxmenu_delete": "Eliminar",
